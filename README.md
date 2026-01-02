@@ -43,7 +43,7 @@ Visualización: gráficos de barras.
 
 **5. Costo de envío promedio**
 Se calculó el costo de envío promedio por tienda, dado que este factor influye en la percepción del cliente y en su decisión de compra.
-Visualización: gráfico de dispersión.
+Visualización: gráfico de barras.
 
 
 ## 📋 Informe final

@@ -19,8 +19,11 @@ Identificar la tienda menos eficiente a partir del análisis de diferentes métr
 El proyecto se encuentra organizado de la siguiente manera:
 
 📁 Challenge-Alura-Store-DH/
+
 │
+
 ├── 📄 AluraStoreLatam_DH.ipynb   # Notebook principal con el análisis completo
+
 └── 📄 README.md                  # Descripción del proyecto
 
 ## 📈 Análisis realizados

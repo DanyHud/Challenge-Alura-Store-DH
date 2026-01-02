@@ -17,6 +17,7 @@ Identificar la tienda menos eficiente a partir del análisis de diferentes métr
 
 ## 🗂️ Estructura del proyecto y organización de los archivos
 El proyecto se encuentra organizado de la siguiente manera:
+
 📁 Challenge-Alura-Store-DH/
 │
 ├── 📄 AluraStoreLatam_DH.ipynb   # Notebook principal con el análisis completo
@@ -24,6 +25,7 @@ El proyecto se encuentra organizado de la siguiente manera:
 
 ## 📈 Análisis realizados
 Durante el proyecto se llevaron a cabo los siguientes análisis:
+
 **1. Ingresos totales por tienda**
 Se calculó el ingreso total de cada tienda mediante la suma de los precios de venta, permitiendo comparar el desempeño financiero general.
 Visualización: gráfico de barras.
